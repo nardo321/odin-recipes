@@ -1,0 +1,12 @@
+p h1 h4{
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 h4 {
+    font-weight: bold;
+}
+
+ul{
+    background-color: lightgray;
+}
